@@ -45,7 +45,7 @@ public class Gsonexample {
         staff.setBirthday("10/19/1995");
 
         List<String> skills = new ArrayList<>();
-        skills.add("jave");
+        skills.add("java");
         skills.add("python");
         skills.add("shell");
 
